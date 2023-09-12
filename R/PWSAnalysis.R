@@ -1,4 +1,5 @@
-
+setwd("/Users/samhamilton/Library/Mobile Documents/com~apple~CloudDocs/Thesis_Aim1/libraries/PWSAnalysisTools")
+# devtools::document() ; devtools::build() ; devtools::install()
 #'AdaptPWSData
 #'
 #'@param df a table produced by the PWS system
