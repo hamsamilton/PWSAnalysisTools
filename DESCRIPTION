@@ -3,7 +3,7 @@ Type: Package
 Title: Collection of tools for analyzing PWS data
 Version: 0.1.0
 Author: Sam Hamilton
-Maintainer: samuelhamilton2024@u.northwestern.edu
+Maintainer: Sam Hamilton <samuelhamilton2024@u.northwestern.edu>
 Description: Collection of tools for analyzing PWS data
 License: GPL-3
 Encoding: UTF-8
